@@ -40,7 +40,9 @@
 
     ### 1. `HTML5` : Utilizado para estruturar a página da web e criar elementos de formulário para interação do usuário.  
     ### 2. `CSS3` : Utilizado para estilizar os elementos HTML e fornecer uma aparência visual agradável e responsiva.  
-    ### 3. `PHP` : Utilizado para implementar a lógica de backend do projeto, incluindo o processamento de formulários, armazenamento de dados em sessão e manipulação de arrays.  
+    ### 3. `PHP` : Utilizado para implementar a lógica de backend do projeto, incluindo o processamento de formulários, armazenamento de dados em sessão e manipulação de arrays.
+
+* Além disso, o projeto também faz uso de tecnologias web padrão, como HTTP para comunicação entre o navegador e o servidor, e o uso de cookies ou sessões PHP para armazenar dados de forma temporária no servidor.  
     
 ## ✒️Autores  
  * Esse projeto foi criado por [Jasminy Matias e Silva](https://github.com/jamybr)
