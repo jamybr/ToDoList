@@ -26,13 +26,13 @@
   * Com base no tutorial mencionado e no código fornecido, as principais funcionalidades do projeto de gerenciador de tarefas em PHP são:
 
   ### 1. Cadastro de Tarefas:  
-    * Os usuários podem cadastrar novas tarefas inserindo o nome da tarefa em um campo de entrada e clicando no botão "Cadastrar".  
+   * Os usuários podem cadastrar novas tarefas inserindo o nome da tarefa em um campo de entrada e clicando no botão "Cadastrar".  
 
   ### 2. Visualização de Tarefas:  
-    * As tarefas cadastradas são exibidas em uma lista abaixo do formulário de cadastro.  
+   * As tarefas cadastradas são exibidas em uma lista abaixo do formulário de cadastro.  
  
   ### 3. Limpeza de Tarefas:  
-    * Existe um botão "Limpar Tarefas" que permite limpar todas as tarefas cadastradas, removendo-as da lista.  
+   * Existe um botão "Limpar Tarefas" que permite limpar todas as tarefas cadastradas, removendo-as da lista.  
 
 ## ⌨️Tecnologias Utilizadas  
 
