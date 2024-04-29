@@ -1,11 +1,11 @@
 # ToDoList  - Gerenciador de Tarefas em PHP
 
 # Índice  
-[Descrição]()  
-[Instruções de Uso]()  
-[Funcionalidades]()   
-[Tecnologias Utilizadas]()  
-[Autores]()  
+[Descrição](#descri%C3%A7%C3%A3o)  
+[Instruções de Uso](#instru%C3%A7%C3%B5es-de-uso)  
+[Funcionalidades](#funcionalidades)   
+[Tecnologias Utilizadas](#%EF%B8%8Ftecnologias-utilizadas)  
+[Autores](#%EF%B8%8Fautores)  
 
 ## 📝Descrição  
 
@@ -13,13 +13,13 @@
 
 ## 👾Instruções de Uso  
 
-  ### 1. Acesse o gerenciador de tarefas através do seu navegador web.  
+   1. Acesse o gerenciador de tarefas através do seu navegador web.  
 
-  ### 2. A lista de tarefas será exibida abaixo do formulário de cadastro.  
+   2. A lista de tarefas será exibida abaixo do formulário de cadastro.  
   
-  ### 3. Verificar se um número é positivo, negativo ou neutro (zero):  
+   3. Verificar se um número é positivo, negativo ou neutro (zero):  
 
-  ### 4. Para limpar a lista de tarefas, clique no botão "Limpar Tarefas".
+   4. Para limpar a lista de tarefas, clique no botão "Limpar Tarefas".
 
 ## 🔛Funcionalidades  
 
